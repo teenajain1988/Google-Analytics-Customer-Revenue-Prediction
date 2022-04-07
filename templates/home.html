@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Google Analytics Customer Revenue Prediction</title>
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+<h1>Google Analytics Customer Revenue Prediction</h1>
+
+<form action="/predict" method="POST">
+    <label for="fullVisitorId">fullVisitorId : </label>
+        <input type = "text" id="fullVisitorId" name="fullVisitorId" required="required">
+
+
+    <input type="submit" value="Submit" required="required">
+
+  <h1>{{result}}</h1>
+
+
+</form>
+
+
+
+</body>
+</html>

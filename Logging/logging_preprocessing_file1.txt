@@ -1,0 +1,6 @@
+2022-03-17 09:53:04.030 WARNING - Warning message while importing the module
+2022-03-17 10:23:05.044 INFO - Date appended in pandas daatframe from casandra database
+2022-03-17 10:59:09.050 INFO - Converted JSON column into Pandas Dataframe
+2022-03-17 11:05:12.040 INFO - Features which are not informative have been dropped
+2022-03-17 11:09:18.055 INFO - Deleted columns which does not give any information to our model
+2022-03-17 11:10:20.030 INFO - Merged the train and test dataframe

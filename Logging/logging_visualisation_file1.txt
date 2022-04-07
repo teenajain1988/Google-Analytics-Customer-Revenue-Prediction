@@ -1,0 +1,8 @@
+2022-03-17 06:38:22.313 INFO - Visualisation started
+2022-03-17 06:39:22.210 INFO - Browser column has been cleaned
+2022-03-17 06:40:27.101 INFO - Null values in Browser column has been dropped
+2022-03-17 06:42:31.222 INFO - missing value validation started
+2022-03-17 06:43:52.532 INFO - missing value validation completed
+2022-03-17 06:44:21.439 INFO - Label Encoding stared
+2022-03-17 06:45:11.400 INFO - Label Encoding finished
+2022-03-17 06:46:10.039 INFO - visualisation finshed

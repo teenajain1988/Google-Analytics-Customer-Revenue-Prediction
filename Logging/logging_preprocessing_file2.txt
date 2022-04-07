@@ -1,0 +1,4 @@
+2022-03-16 18:50:23.044 INFO - Features having one value has been deleted
+2022-03-16 18:59:28.048 INFO - unusable keywords from different features has been replaced by none value
+2022-03-16 19:10:55.037 INFO - target column with null values replaced by 0
+2022-03-16 19:13:34.010 INFO - source feature has been cleaned

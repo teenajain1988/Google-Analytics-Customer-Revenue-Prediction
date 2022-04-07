@@ -1,0 +1,8 @@
+
+2022-03-17 09:49:03.546 INFO - Finale Featurizing of data started
+2022-03-17 10:29:08.589 INFO - Finale Featurizing of data completed
+2022-03-17 10:30:03.546 INFO - Train_Test Split
+2022-03-17 10:31:15.199 INFO - Model Parameter Defined
+2022-03-17 10:46:05.122 INFO - Model training has been started
+2022-03-17 11:00:08.532 INFO - Model training has been completed
+2022-03-17 11:03:23.147 INFO - Predicted Database is ready
